@@ -12,13 +12,23 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
+      queue<TreeNode*>q;
+      int count = 0;
       if(root == NULL){
         return 0;
+      }
+      q.push(root);
+      while(!q.empty()){
+         TreeNode* curr = q.front();
+        q.pop();
+       count++;
+       if(curr->left){
+        q.push(curr->left);
+       }
+       if(curr->right){
+        q.push(curr->right);
+       }
       }  
-      int countleft = countNodes(root->left);
-      int countright = countNodes(root->right);
-      
-      return 1+countleft+countright;
-      
+      return count;
     }
 };
