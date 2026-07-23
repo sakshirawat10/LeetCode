@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
