@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0541-reverse-string-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
