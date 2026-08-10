@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sakshirawat10/LeetCode/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sakshirawat10/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
