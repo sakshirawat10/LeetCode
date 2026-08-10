@@ -11,24 +11,19 @@
  */
 class Solution {
 public:
-TreeNode * order(TreeNode* root,int val){
-    if(root == NULL){
-        return new TreeNode(val);
+TreeNode * helper(vector<int>& preorder, int &i, int bound){
+    if(i>=preorder.size() || preorder[i] > bound){
+        return NULL;
     }
-        if(val < root->val){
-          root->left =  order(root->left,val);
-        }
-        else{
-            root->right = order(root->right,val);
-        }
-    
+    TreeNode* root = new TreeNode(preorder[i]);
+    i++;
+    root->left = helper(preorder,i,root->val);
+    root->right = helper(preorder,i,bound);
+
     return root;
 }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root = NULL;
-      for(int val : preorder){
-      root = order(root,val);
-    }
-        return root;
+        int i = 0;
+        return helper(preorder,i,INT_MAX);
     }
 };
