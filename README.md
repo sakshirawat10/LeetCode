@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sakshirawat10/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sakshirawat10/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sakshirawat10/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/sakshirawat10/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
