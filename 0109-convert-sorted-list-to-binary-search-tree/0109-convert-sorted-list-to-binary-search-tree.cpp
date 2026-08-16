@@ -21,26 +21,29 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int>&arr,int left,int right){
-      if(left>right){
-        return NULL;
-      }
-      int mid = left+(right-left)/2;
-      TreeNode* root = new TreeNode(arr[mid]);
-      root->left = solve(arr,left,mid-1);
-      root->right = solve(arr,mid+1,right);
-
-      return root;
-    }
     TreeNode* sortedListToBST(ListNode* head) {
-       vector<int>arr;
-       while(head != NULL){
-        arr.push_back(head->val);
-        head = head->next;
+       if(head == NULL){
+         return NULL;
        } 
-       if(arr.empty()){
-        return NULL;
+       if(head->next == NULL){
+        return new TreeNode(head->val);
        }
-       return solve(arr,0,arr.size()-1);
+       ListNode* slow = head;
+       ListNode* fast = head;
+       ListNode* prev = NULL;
+
+       while(fast != NULL && fast->next != NULL){
+        prev = slow;
+        slow=slow->next;
+        fast= fast->next->next;
+       }
+       prev->next = NULL;
+
+       TreeNode* root = new TreeNode(slow->val);
+       root->left = sortedListToBST(head);
+       root->right = sortedListToBST(slow->next);
+
+       return root;
+       
     }
 };
