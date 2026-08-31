@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshirawat10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Linked List
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sakshirawat10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sakshirawat10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
