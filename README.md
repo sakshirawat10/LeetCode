@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -191,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
