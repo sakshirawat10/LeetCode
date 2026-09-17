@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sakshirawat10/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/sakshirawat10/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/sakshirawat10/LeetCode/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
