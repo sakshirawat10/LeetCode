@@ -5,17 +5,13 @@
  *     struct ListNode *next;
  * };
  */
- struct ListNode*createNode(int val){
-    struct ListNode*newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
-    newNode->val = val;
-    newNode->next = NULL;
-    return newNode;
- }
+ 
 bool isPalindrome(struct ListNode* head) {
     struct ListNode*temp = head;
     struct ListNode*rev = NULL;
      while(temp!=NULL){
-        struct ListNode* newNode = createNode(temp->val);
+        struct ListNode* newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
+       newNode->val = temp->val;
         newNode->next = rev;
         rev = newNode;
         temp=temp->next;
