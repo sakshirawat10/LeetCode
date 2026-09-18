@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/sakshirawat10/LeetCode/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/sakshirawat10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sakshirawat10/LeetCode/tree/master/0148-sort-list) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
