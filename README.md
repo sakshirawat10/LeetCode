@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshirawat10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sakshirawat10/LeetCode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshirawat10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sakshirawat10/LeetCode/tree/master/0071-simplify-path) |
 | [0541-reverse-string-ii](https://github.com/sakshirawat10/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Design
 |  |
