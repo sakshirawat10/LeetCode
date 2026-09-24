@@ -3,7 +3,7 @@ public:
     string simplifyPath(string path) {
      vector<string>st;
      string temp;
-     for(int i = 0;i<=path.size();i++){
+     for(int i=0 ; i<=path.size();i++){
         if(i==path.size()||path[i]=='/'){
             if(temp==".."){
                 if(!st.empty()){
@@ -19,12 +19,13 @@ public:
             temp+=path[i];
         }
      }   
-     string ans ="";
-     for(string dir:st){
-        ans +="/"+dir;
+     string ans="";
+     for(string dir : st){
+        ans+="/"+dir;
      }
-     if(ans=="")
-     return "/";
-    return ans;
+     if(ans==""){
+        return"/";
+     }
+     return ans;
     }
 };
