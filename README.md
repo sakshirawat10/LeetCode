@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/sakshirawat10/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/sakshirawat10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/sakshirawat10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
