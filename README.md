@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/sakshirawat10/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sakshirawat10/LeetCode/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/sakshirawat10/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshirawat10/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sakshirawat10/LeetCode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sakshirawat10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sakshirawat10/LeetCode/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/sakshirawat10/LeetCode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sakshirawat10/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sakshirawat10/LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sakshirawat10/LeetCode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/sakshirawat10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sakshirawat10/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/sakshirawat10/LeetCode/tree/master/0706-design-hashmap) |
 ## Bracket Sequences
 |  |
 | ------- |
