@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshirawat10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshirawat10/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sakshirawat10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sakshirawat10/LeetCode/tree/master/0061-rotate-list) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshirawat10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakshirawat10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sakshirawat10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -275,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshirawat10/LeetCode/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakshirawat10/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
