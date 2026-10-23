@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sakshirawat10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sakshirawat10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshirawat10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sakshirawat10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sakshirawat10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sakshirawat10/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/sakshirawat10/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sakshirawat10/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sakshirawat10/LeetCode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshirawat10/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sakshirawat10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sakshirawat10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
